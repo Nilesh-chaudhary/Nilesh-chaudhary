@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nilesh-chaudhary
-- 👀 I’m interested in web designing
-- 🌱 I’m currently learning web framework
-- 💞️ I’m looking to collaborate on amazon
+- 👀 I’m interested in full stack dev and machine learning
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on google
 - 📫 How to reach me ...
 
 <!---
